@@ -1,0 +1,1 @@
+# cloud-config-refresh-manual
